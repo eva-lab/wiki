@@ -18,6 +18,7 @@ Conjunto de materiais úteis para concepção de IA chatbots.
 - [How to build a simple neural network in 9 lines of Python code](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1#.4rohqw8pp)
 - [Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.nm7gx191d)
 - [Neural Conversational Model in Torch](https://github.com/macournoyer/neuralconvo)
+- [Deep Learning for Chabots](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
 
 **Tecnologia/Infraestrutura**
 - [TensorFlow](https://www.tensorflow.org/)
